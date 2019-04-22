@@ -1,3 +1,0 @@
-# Factorial
-
-Computing n!
